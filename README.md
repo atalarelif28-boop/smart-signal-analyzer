@@ -26,4 +26,4 @@ Biyomedikal ölçümlerde (EEG/EMG), prizlerden yayılan şebeke gürültüsü s
 ---
 
 ## Geliştirici
-**Elif Buse** - *Elektrik-Elektronik Mühendisliği Öğrencisi | Ondokuz Mayıs Üniversitesi*
+**Elif Atalar** - *Elektrik-Elektronik Mühendisliği 3.Sınıf Öğrencisi | Ondokuz Mayıs Üniversitesi*
