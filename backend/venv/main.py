@@ -36,3 +36,4 @@ async def analyze_signal(file: UploadFile = File(...)):
             "min": float(np.min(signal))
         }
     }
+
